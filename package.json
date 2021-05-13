@@ -40,7 +40,7 @@
     "superagent": "^3.8.3",
     "twilio": "^3.18.0",
     "twit": "^2.2.11",
-    "webrtc-adapter": "^6.3.0"
+    "webrtc-adapter": "^6.4.8"
   },
   "devDependencies": {
     "browserify": "^16.2.3",
