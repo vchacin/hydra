@@ -38,7 +38,7 @@
     "simple-peer": "^9.1.2",
     "socket.io": "^2.0.3",
     "superagent": "^3.8.3",
-    "twilio": "^3.18.0",
+    "twilio": "^3.31.0",
     "twit": "^2.2.11",
     "webrtc-adapter": "^6.3.0"
   },
